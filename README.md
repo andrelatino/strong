@@ -1,0 +1,2 @@
+# strong
+IA Blog
